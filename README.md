@@ -68,4 +68,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
-
+Thus the  I-V characteristics of Gunn Diode is found 
