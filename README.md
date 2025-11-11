@@ -53,13 +53,16 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
-**B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+**B.Observation:
+![WhatsApp Image 2025-11-11 at 15 29 53_9d74c0a1](https://github.com/user-attachments/assets/eb23b311-a82d-43e2-9b08-18c7c600f35b)
 
 **C.Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
+![WhatsApp Image 2025-11-11 at 15 29 54_2c10114e](https://github.com/user-attachments/assets/b904af47-20ef-45e3-b2e0-42f384317dac)
 
-**D.Conclusions: (Write  your Own)**
+
+**D.Conclusions: 
+The I-V characteristics of the Gunn diode were Succesfully studied, confuming the negative reistance region essential for microwane oscillation. This experiment demonstrate the working principles of gunn oscillators and PIN modulator used in microwave communication system.
 
 **Precautions:**
 
@@ -68,4 +71,6 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
+
+
 Thus the  I-V characteristics of Gunn Diode is found 
